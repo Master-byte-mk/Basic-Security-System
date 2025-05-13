@@ -1,0 +1,23 @@
+{
+    "admin": {
+        "notes": [
+            "This is a secure note for admin",
+            "I am an admin"
+        ],
+        "files": [
+            "admin_document1.txt"
+        ]
+    },
+    "Vic": {
+        "notes": [
+            "I am Victor"
+        ],
+        "files": []
+    },
+    "Baka": {
+        "notes": [
+            "I am Baka the master"
+        ],
+        "files": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "password": "7676aaafb027c825bd9abab78b234070e702752f625b752e55e55b48e607e358",
+        "role": "admin"
+    },
+    "Vic": {
+        "password": "755a55f7c344c181b8b7deee84146265cc0800cf7b14b30a73db623ede16afa5",
+        "role": "user"
+    },
+    "Baka": {
+        "password": "7bbfeaed3eb12a2ba715fc4765937c42a9a29b82b3e9b51520b37e67617da718",
+        "role": "admin"
+    }
+}
